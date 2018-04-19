@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "jumlah": 2,
+        "catatan": "Ini adalah produk saya",
+        "barang": {
+            "id": 3,
+            "lokasi_foto": "https://id-test-11.slatic.net/p/2/xiaomi-mi-in-ear-headphones-pro-hd-hitam-3640-34101207-e4164279687c3282dc8c9bb87c222efc-catalog_233.jpg",
+            "nama": "Xiaomi Mi In Ear Headphones Pro HD - Silver",
+            "keterangan": "Xiaomi Mi In-Ear Headphone Pro HD adalah earphone dengan desain simpel dan praktis sehingga mudah disimpan di dalam kantong atau ketika dikalungkan di leher sambil tetap beraktivitas. Earphone ini hadir dengan dual-dynamics untuk menjaga keseimbangan audio + balanced armature driver. Driver yang mampu memberikan keluaran suara lebih detail dengan tuning akustik yang lebih natural dan bersih. Distorsi pada bass juga akan lebih diminimalisir, dan tanpa output yang berlebihan. Xiaomi Mi In-Ear Pro HD memiliki kabel TPE material graphene untuk membantu earphone mengeluarkan suara yang lebih bulat dan kaya akan detail, serta cukup tangguh dan tidak mudah kusut. Xiaomi menggunakan desain in-ear buds 45 derajat agar lebih pas di telinga dan tidak mudah terlepas.",
+            "stock": 17,
+            "harga": 2599000,
+            "diskon": 23
+        }
+    },
+    {
+        "id": 2,
+        "jumlah": 1,
+        "catatan": "Ini adalah produk kamu",
+        "barang": {
+            "id": 4,
+            "lokasi_foto": "https://id-test-11.slatic.net/p/2/xiaomi-mi-power-bank-2-fast-charging-20000mah-1508931048-72723135-a915ba2eab72e3b0fe4af1a2da8fb1bc-catalog_233.jpg",
+            "nama": "Xiaomi Mi Power Bank 2 Fast Charging 20000mAh",
+            "keterangan": "Jaga ponsel, tablet, kamera dan perangkat elektronik lainnya di perjalanan dengan MiForce Mi besar 20000mAh. Premium lithium-ion nya baterai polimer yang dipasok oleh Panasonic / LG memiliki kerapatan energi hingga 728Wh / L. Isi dua perangkat sekaligus dengan port USB ganda.",
+            "stock": 56,
+            "harga": 419000,
+            "diskon": 0
+        }
+    },
+    {
+        "id": 3,
+        "jumlah": 1,
+        "catatan": "Ini adalah produk bersama",
+        "barang": {
+            "id": 5,
+            "lokasi_foto": "https://id-test-11.slatic.net/p/2/xiaomi-car-charger-dual-usb-8930-08057548-a2317b1095f336810859ba9993f0c2ee-catalog_233.jpg",
+            "nama": "Xiaomi Car Charger Dual USB",
+            "keterangan": "Xiaomi Mi Car Charger Dual USB memiliki 2 port USB yang masing memiliki 2.4A yang dapat digunakan untuk charging gadget Anda di mobil. Menggunakan bahan aluminium Alloy, membuat charger terlihat menarik untuk interior dashboard mobil Anda.",
+            "stock": 72,
+            "harga": 149000,
+            "diskon": 23
+        }
+    }
+]
