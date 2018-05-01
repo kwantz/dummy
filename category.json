@@ -1,14 +1,14 @@
 [
-    { "name": "Fashion Wanita" },
-    { "name": "Fashion Pria" },
-    { "name": "Fashion Muslim" },
-    { "name": "Fashion Anak" },
-    { "name": "Kecantikan" },
-    { "name": "Kesehatan" },
-    { "name": "Perawatan Tubuh" },
-    { "name": "Handphone & Tablet" },
-    { "name": "Laptop & Aksesoris" },
-    { "name": "Komputer & Aksesoris" },
-    { "name": "Rumah Tangga" },
-    { "name": "Makanan & Minuman" }
+    { "nama": "Fashion Wanita" },
+    { "nama": "Fashion Pria" },
+    { "nama": "Fashion Muslim" },
+    { "nama": "Fashion Anak" },
+    { "nama": "Kecantikan" },
+    { "nama": "Kesehatan" },
+    { "nama": "Perawatan Tubuh" },
+    { "nama": "Handphone & Tablet" },
+    { "nama": "Laptop & Aksesoris" },
+    { "nama": "Komputer & Aksesoris" },
+    { "nama": "Rumah Tangga" },
+    { "nama": "Makanan & Minuman" }
 ]
